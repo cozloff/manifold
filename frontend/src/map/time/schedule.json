@@ -1,0 +1,278 @@
+{
+  "week_minutes": 10080,
+  "activities": {
+    "Sleep": {
+      "location": "home",
+      "blocks": [
+        {
+          "days": [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "start": "00:00",
+          "end": "07:00"
+        },
+        {
+          "days": [
+            "Sunday",
+            "Saturday"
+          ],
+          "start": "23:30",
+          "end": "24:00"
+        },
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "start": "23:55",
+          "end": "24:00"
+        }
+      ]
+    },
+    "Get Ready": {
+      "location": "home",
+      "blocks": [
+        {
+          "days": [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "start": "07:00",
+          "end": "07:20"
+        }
+      ]
+    },
+    "Commute": {
+      "location": "road",
+      "blocks": [
+        {
+          "days": [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "start": "07:20",
+          "end": "07:45"
+        },
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "start": "16:30",
+          "end": "16:55"
+        }
+      ]
+    },
+    "Gridies": {
+      "location": "home",
+      "blocks": [
+        {
+          "days": [
+            "Sunday",
+            "Saturday"
+          ],
+          "start": "07:45",
+          "end": "12:00"
+        },
+        {
+          "days": [
+            "Sunday",
+            "Saturday"
+          ],
+          "start": "13:00",
+          "end": "16:30"
+        },
+        {
+          "days": [
+            "Sunday",
+            "Saturday"
+          ],
+          "start": "17:30",
+          "end": "22:30"
+        },
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "start": "17:55",
+          "end": "22:55"
+        }
+      ]
+    },
+    "Lunch": {
+      "location": "home",
+      "blocks": [
+        {
+          "days": [
+            "Sunday",
+            "Saturday"
+          ],
+          "start": "12:00",
+          "end": "13:00"
+        }
+      ]
+    },
+    "Exercise": {
+      "location": "home",
+      "blocks": [
+        {
+          "days": [
+            "Sunday",
+            "Saturday"
+          ],
+          "start": "16:30",
+          "end": "17:00"
+        },
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "start": "16:55",
+          "end": "17:25"
+        }
+      ]
+    },
+    "Shower": {
+      "location": "home",
+      "blocks": [
+        {
+          "days": [
+            "Sunday",
+            "Saturday"
+          ],
+          "start": "17:00",
+          "end": "17:15"
+        },
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "start": "17:25",
+          "end": "17:40"
+        }
+      ]
+    },
+    "Eat": {
+      "location": "home",
+      "blocks": [
+        {
+          "days": [
+            "Sunday",
+            "Saturday"
+          ],
+          "start": "17:15",
+          "end": "17:30"
+        },
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "start": "17:40",
+          "end": "17:55"
+        }
+      ]
+    },
+    "Pack for next day": {
+      "location": "home",
+      "blocks": [
+        {
+          "days": [
+            "Sunday",
+            "Saturday"
+          ],
+          "start": "22:30",
+          "end": "23:00"
+        },
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "start": "22:55",
+          "end": "23:25"
+        }
+      ]
+    },
+    "Podcast Rest": {
+      "location": "home",
+      "blocks": [
+        {
+          "days": [
+            "Sunday",
+            "Saturday"
+          ],
+          "start": "23:00",
+          "end": "23:30"
+        },
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "start": "23:25",
+          "end": "23:55"
+        }
+      ]
+    },
+    "Work Lunch": {
+      "location": "work",
+      "blocks": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "start": "07:45",
+          "end": "16:30"
+        }
+      ]
+    }
+  }
+}
